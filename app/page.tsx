@@ -1,3 +1,5 @@
+import CurvedScroll from "./components/CurvedScroll";
+
 export default function Page() {
-    return <h1>Hello, Next.js!</h1>;
+    return <CurvedScroll />;
 }
